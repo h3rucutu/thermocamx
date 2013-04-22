@@ -2,8 +2,7 @@
 Servo Sx;
 int i = 0;
 
-void setup()
-{
+void setup() {
   Sx.attach(9);
 }
 
@@ -15,9 +14,5 @@ void loop() {
   for(i = 70; i >= 0; i -= 1){
     Sx.write(i);
     delay(200);
-  }
-  if(i == 70 || i == 0) {
-    Sx.write(i);
-    delay(15);
   }
 }
