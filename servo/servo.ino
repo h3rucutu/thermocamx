@@ -1,11 +1,13 @@
 #include <Servo.h>
+
 Servo Sx;
-int servoPin =9;
 int i;
+
 void setup()
 {
-Sx.attach(servoPin);
+Sx.attach(9);
 }
+
 void loop()
 {
   for(i=55;i<=125;i=i+2)
