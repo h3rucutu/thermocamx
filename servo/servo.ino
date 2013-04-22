@@ -8,7 +8,7 @@ void setup() {
   Sy.attach(10);
 }
 
-void loop() {
+/*void loop() {
   for(p = 0; p <= 60; p +=5) {
     for(i = 0; i <= 70; p += 1) {
       if(i == 70) {
@@ -32,8 +32,8 @@ void loop() {
     }
   }
 }
+*/
 
-/*
 void loop() {
   for(i = 0; i <= 70; i += 1) {
     if(i == 70) {
@@ -59,4 +59,4 @@ void loop() {
       delay(200);
     }
   }
-}*/
+}
