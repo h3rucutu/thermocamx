@@ -5,13 +5,13 @@ README
 Ini adalah proyek pengembangan kamera thermal (ThermocamX), yang merupakan program dari PKM-KC tahun 2013. Kami membuka proyek ini secara terbuka untuk dikembangkan secara lebih lanjut untuk ke depannya.
 
 ============
-Progress (45%)
+Progress (50%)
 ============
 -Arduino, Servo, IR Sensor Single sudah dibeli
 -Tripod sudah ada
--Motor Servo Sumbu-X sudah berhasil (masih kurang mulus)
+-Motor Servo Sumbu-X dan Sumbu-Y sudah sinkron
 -IR Sensor Multi (pemesanan)
--Pan/Tilt (desain dan pembuatan)
+-Pan/Tilt (pemasangan)
 
 ============
 Member
