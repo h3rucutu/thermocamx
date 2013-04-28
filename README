@@ -13,7 +13,8 @@ Progress (50%)
 -IR Sensor Array (pemesanan)
 -Pan/Tilt (revisi penyempurnaan)
 -IR Sensor Single (kalibrasi + koreksi program)
--Java GUI (desain awal)
+-Java GUI (Desain Main Window, About, Help sudah ditambahkan)
+-README ditambahkan dalam direktori java_gui
 
 ============
 Member
