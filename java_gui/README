@@ -1,0 +1,26 @@
+==========
+README
+==========
+Ini adalah direktori pengembangan User Interface (UI) untuk ThermocamX. UI dibuat menggunakan Java. File ini merupakan hasil sunting dari file yang sudah digenerate oleh IDE Netbeans yang kami pakai dalam membantu mendesain UI ini.
+Pada direktori ini (java_gui), terdapat file contoh, yang memiliki nama depan example*.java sementara file pengembangan UI ThermocamX ialah selain itu.
+
+==========
+HOW TO
+==========
+Bagaimana untuk mengcompile file yang ada pada direktori ini dan mencobanya?
+1. Pastikan Java Runtime Environment (JRE) terinstall pada PC anda.
+2. Jalankan compiler java untuk mengcompile source code file yang dicompile adalah : AboutFrame.java; HelpFrame.java; MainFrame.java dan ThermocamX_GUI.java
+Gunakan perintah javac.
+3. Setelah proses compile selesai tanpa error, lanjutkan dengan menjalankan file hasil compile, file utamanya adalah ThermocamX_GUI.
+Gunakan perintah java.
+
+==========
+CHANGELOG
+==========
+alpha 0.0.3
+-Fixing error pada Main Window saat memanggil About
+-Penambahan fitur pemanggilan About dan Help
+-Penambahan fitur Exit pada Menu Bar di Main Window
+
+alpha 0.0.1
+-Pembuatan Main Window, Help dan About
